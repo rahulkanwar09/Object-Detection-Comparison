@@ -1,0 +1,29 @@
+TRAINING TIME on GPU-P100 Kaggle
+================================
+
+YOLO : TACO = 1050 images (train)
+10 epochs = 19 min 20 sec 
+25 epochs = 47 min 30 sec 
+50 epochs = 106 min 7 sec 
+
+
+YOLO : PlastoPol = 1693 images (train)
+10 epochs =  4 min 8 sec 
+25 epochs =  11 min 04 sec 
+50 epochs =  23 min 56 sec 
+
+
+YOLO : TACO 4.5 = 4211 images (train)
+10 epochs = 6 min 24 sec 
+25 epochs = 16 min 22 sec 
+50 epochs = 32 min 37 sec 
+
+
+
+
+
+
+
+
+
+
